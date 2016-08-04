@@ -1,3 +1,4 @@
-# Table of content
+# Índice
 
-* [First Chapter](chapter1.md)
+* [¿Qué es un SCV?](chapter1.md)
+
