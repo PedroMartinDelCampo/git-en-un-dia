@@ -14,5 +14,5 @@ git config user.name "Pedro Martín del Campo González"
 git config core.editor "nano"
 ```
 
-
+Hay muchas otras opciones, pero para iniciar es suficiente
 
