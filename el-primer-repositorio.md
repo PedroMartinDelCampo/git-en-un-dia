@@ -16,3 +16,11 @@ git config --global core.editor "nano"
 
 Hay muchas otras variables, pero para iniciar es suficiente.
 
+**Tabla 5.1 Alcances**
+
+| **Alcance** | **Descripción** |
+| --- | --- |
+| --global | Aplica a todos los repositorios del usuario actual |
+
+
+
