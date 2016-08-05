@@ -21,4 +21,6 @@ Hay muchas otras variables, pero para iniciar es suficiente.
 | **Alcance** | **Descripción** |
 | --- | --- |
 | --global | Aplica a todos los repositorios del usuario actual |
+| --system | Aplica a todos los repositorios en la computadora |
+|  | Aplica al proyecto actual, por lo que debe ser ejecutado dentro de un repositorio  Git. |
 
