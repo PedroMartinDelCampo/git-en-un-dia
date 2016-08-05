@@ -9,10 +9,12 @@ git config <key> <value>
 Donde key es el nombre de la variable y value su valor. A continuación se muestra cómo configurar el nombre y correo que aparecen al colaborar en un proyecto, así como el editor que se utilizará para editar comentarios acerca de los cambios hechos.
 
 ```
-git config user.email "pedro.martin@lkmx.io"
-git config user.name "Pedro Martín del Campo González"
-git config core.editor "nano"
+git config --global user.email "pedro.martin@lkmx.io"
+git config --global user.name "Pedro Martín del Campo González"
+git config --global core.editor "nano"
 ```
 
-Hay muchas otras opciones, pero para iniciar es suficiente
+Hay muchas otras variables, pero para iniciar es suficiente.
+
+
 
