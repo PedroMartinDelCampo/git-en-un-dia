@@ -22,5 +22,3 @@ Hay muchas otras variables, pero para iniciar es suficiente.
 | --- | --- |
 | --global | Aplica a todos los repositorios del usuario actual |
 
-
-
