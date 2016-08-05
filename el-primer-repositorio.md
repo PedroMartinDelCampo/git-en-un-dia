@@ -6,5 +6,7 @@ Antes de crear el primer repositorio con Git, se debe configurar algunos detalle
 git config <key> <value>
 ```
 
-Donde key es el nombre de la variable y value su valor.
+Donde key es el nombre de la variable y value su valor. A continuación se muestra cómo configurar el nombre y correo que aparecen al colaborar en un proyecto, así como el editor que se utilizará para editar comentarios acerca de los cambios hechos.
+
+
 
